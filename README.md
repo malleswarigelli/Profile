@@ -1,5 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Malleswari Gelli
+![](https://komarev.com/ghpvc/?username=malleswarigelli&label=PROFILE+VIEWS)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Dr.Malleswari Gelli
 ========================================================================================================================================
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+</div>
 
 Data Scientist/MLOPs Engineer
 -----------------------------
@@ -8,7 +17,7 @@ An accomplished researcher with 10+ years of experience in the life sciences foc
 
 * 🌍  I'm based in DesMoines, Iowa
 * ✉️  You can contact me at [maldatasci@gmail.com](mailto:maldatasci@gmail.com)
-* 🧠  I'm learning Generative AI
+* 🧠  I'm currently learning Generative AI
 * 🤝  I'm open to collaborating on Generative AI projects
 * ⚡  I'm the happiest person on planet earth
 
