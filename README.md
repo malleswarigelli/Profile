@@ -37,3 +37,7 @@ An accomplished researcher with 10+ years of experience in the life sciences foc
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/malleswarigelli"><img src="https://github-readme-stats.vercel.app/api?username=malleswarigelli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="malleswarigelli's GitHub stats" /></a>
+
+<img width="48%" alt="Malleswari Gelli's most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=malleswarigelli&theme=react&border=61dafb&hide_border=true" />
+<div>
+  
